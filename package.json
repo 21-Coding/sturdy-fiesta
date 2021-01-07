@@ -1,0 +1,19 @@
+{
+  "name": "ice-cream-challenge",
+  "version": "1.0.0",
+  "description": "Front end A/B testing demands a strong working knowledge of DOM manipulation. There are often many different ways to achieve the same result.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGood/ice-cream-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGood/ice-cream-challenge/issues"
+  },
+  "homepage": "https://github.com/TheGood/ice-cream-challenge#readme"
+}
